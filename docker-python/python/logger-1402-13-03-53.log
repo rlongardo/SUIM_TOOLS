@@ -1,0 +1,763 @@
+2024-02-14 13:03:53,746 : INFO : El estudio con ID de interpretación IC-331634 ya existe
+2024-02-14 13:03:53,747 : INFO : El estudio con ID de interpretación IC-331808 ya existe
+2024-02-14 13:03:53,749 : INFO : El estudio con ID de interpretación IC-331637 ya existe
+2024-02-14 13:03:53,749 : INFO : El estudio con ID de interpretación IC-331509 ya existe
+2024-02-14 13:03:53,750 : INFO : El estudio con ID de interpretación IC-331839 ya existe
+2024-02-14 13:03:53,751 : INFO : El estudio con ID de interpretación IC-332854 ya existe
+2024-02-14 13:03:53,751 : INFO : El estudio con ID de interpretación IC-331631 ya existe
+2024-02-14 13:03:53,752 : INFO : El estudio con ID de interpretación IC-331835 ya existe
+2024-02-14 13:03:53,752 : INFO : El estudio con ID de interpretación IC-332857 ya existe
+2024-02-14 13:03:53,753 : INFO : El estudio con ID de interpretación IC-331829 ya existe
+2024-02-14 13:03:53,753 : INFO : El estudio con ID de interpretación IC-331632 ya existe
+2024-02-14 13:03:53,754 : INFO : El estudio con ID de interpretación IC-331511 ya existe
+2024-02-14 13:03:53,755 : INFO : El estudio con ID de interpretación IC-331633 ya existe
+2024-02-14 13:03:53,755 : INFO : El estudio con ID de interpretación IC-331512 ya existe
+2024-02-14 13:03:53,756 : INFO : El estudio con ID de interpretación IC-331813 ya existe
+2024-02-14 13:03:53,756 : INFO : El estudio con ID de interpretación IC-331513 ya existe
+2024-02-14 13:03:53,757 : INFO : El estudio con ID de interpretación IC-332855 ya existe
+2024-02-14 13:03:53,758 : INFO : El estudio con ID de interpretación IC-331836 ya existe
+2024-02-14 13:03:53,758 : INFO : El estudio con ID de interpretación IC-331715 ya existe
+2024-02-14 13:03:53,759 : INFO : El estudio con ID de interpretación IC-331636 ya existe
+2024-02-14 13:03:53,759 : INFO : El estudio con ID de interpretación IC-333035 ya existe
+2024-02-14 13:03:53,760 : INFO : El estudio con ID de interpretación IC-331816 ya existe
+2024-02-14 13:03:53,760 : INFO : El estudio con ID de interpretación IC-331629 ya existe
+2024-02-14 13:03:53,761 : INFO : El estudio con ID de interpretación IC-331811 ya existe
+2024-02-14 13:03:53,761 : INFO : El estudio con ID de interpretación IC-331635 ya existe
+2024-02-14 13:03:53,762 : INFO : El estudio con ID de interpretación IC-331809 ya existe
+2024-02-14 13:03:53,763 : INFO : El estudio con ID de interpretación IC-331630 ya existe
+2024-02-14 13:03:53,764 : INFO : El estudio con ID de interpretación IC-331514 ya existe
+2024-02-14 13:03:53,765 : INFO : El estudio con ID de interpretación IC-332926 ya existe
+2024-02-14 13:03:53,765 : INFO : El estudio con ID de interpretación IC-331810 ya existe
+2024-02-14 13:03:53,766 : INFO : El estudio con ID de interpretación IC-331638 ya existe
+2024-02-14 13:03:53,767 : INFO : El estudio con ID de interpretación IC-331819 ya existe
+2024-02-14 13:03:53,768 : INFO : El estudio con ID de interpretación IC-331716 ya existe
+2024-02-14 13:03:53,768 : INFO : El estudio con ID de interpretación IC-331639 ya existe
+2024-02-14 13:03:53,769 : INFO : El estudio con ID de interpretación IC-332932 ya existe
+2024-02-14 13:03:53,769 : INFO : El estudio con ID de interpretación IC-332928 ya existe
+2024-02-14 13:03:53,770 : INFO : El estudio con ID de interpretación IC-331817 ya existe
+2024-02-14 13:03:53,770 : INFO : El estudio con ID de interpretación IC-331640 ya existe
+2024-02-14 13:03:53,771 : INFO : El estudio con ID de interpretación IC-331642 ya existe
+2024-02-14 13:03:53,772 : INFO : El estudio con ID de interpretación IC-331641 ya existe
+2024-02-14 13:03:53,772 : INFO : El estudio con ID de interpretación IC-331814 ya existe
+2024-02-14 13:03:53,773 : INFO : El estudio con ID de interpretación IC-331815 ya existe
+2024-02-14 13:03:53,774 : INFO : El estudio con ID de interpretación IC-331823 ya existe
+2024-02-14 13:03:53,775 : INFO : El estudio con ID de interpretación IC-332934 ya existe
+2024-02-14 13:03:53,775 : INFO : El estudio con ID de interpretación IC-331653 ya existe
+2024-02-14 13:03:53,776 : INFO : El estudio con ID de interpretación IC-332935 ya existe
+2024-02-14 13:03:53,776 : INFO : El estudio con ID de interpretación IC-331818 ya existe
+2024-02-14 13:03:53,777 : INFO : El estudio con ID de interpretación IC-331643 ya existe
+2024-02-14 13:03:53,778 : INFO : El estudio con ID de interpretación IC-332936 ya existe
+2024-02-14 13:03:53,778 : INFO : El estudio con ID de interpretación IC-331820 ya existe
+2024-02-14 13:03:53,779 : INFO : El estudio con ID de interpretación IC-331644 ya existe
+2024-02-14 13:03:53,779 : INFO : El estudio con ID de interpretación IC-331717 ya existe
+2024-02-14 13:03:53,780 : INFO : El estudio con ID de interpretación IC-331645 ya existe
+2024-02-14 13:03:53,780 : INFO : El estudio con ID de interpretación IC-331821 ya existe
+2024-02-14 13:03:53,781 : INFO : El estudio con ID de interpretación IC-332937 ya existe
+2024-02-14 13:03:53,783 : INFO : El estudio con ID de interpretación IC-331812 ya existe
+2024-02-14 13:03:53,784 : INFO : El estudio con ID de interpretación IC-332930 ya existe
+2024-02-14 13:03:53,784 : INFO : El estudio con ID de interpretación IC-331646 ya existe
+2024-02-14 13:03:53,785 : INFO : El estudio con ID de interpretación IC-331827 ya existe
+2024-02-14 13:03:53,785 : INFO : El estudio con ID de interpretación IC-331648 ya existe
+2024-02-14 13:03:53,786 : INFO : El estudio con ID de interpretación IC-332939 ya existe
+2024-02-14 13:03:53,786 : INFO : El estudio con ID de interpretación IC-331515 ya existe
+2024-02-14 13:03:53,787 : INFO : El estudio con ID de interpretación IC-332938 ya existe
+2024-02-14 13:03:53,787 : INFO : El estudio con ID de interpretación IC-331822 ya existe
+2024-02-14 13:03:53,788 : INFO : El estudio con ID de interpretación IC-331649 ya existe
+2024-02-14 13:03:53,789 : INFO : El estudio con ID de interpretación IC-332943 ya existe
+2024-02-14 13:03:53,789 : INFO : El estudio con ID de interpretación IC-331718 ya existe
+2024-02-14 13:03:53,789 : INFO : El estudio con ID de interpretación IC-331647 ya existe
+2024-02-14 13:03:53,790 : INFO : El estudio con ID de interpretación IC-331828 ya existe
+2024-02-14 13:03:53,791 : INFO : El estudio con ID de interpretación IC-332940 ya existe
+2024-02-14 13:03:53,791 : INFO : El estudio con ID de interpretación IC-331824 ya existe
+2024-02-14 13:03:53,792 : INFO : El estudio con ID de interpretación IC-331650 ya existe
+2024-02-14 13:03:53,793 : INFO : El estudio con ID de interpretación IC-331516 ya existe
+2024-02-14 13:03:53,793 : INFO : El estudio con ID de interpretación IC-331652 ya existe
+2024-02-14 13:03:53,795 : INFO : El estudio con ID de interpretación IC-331826 ya existe
+2024-02-14 13:03:53,796 : INFO : El estudio con ID de interpretación IC-331651 ya existe
+2024-02-14 13:03:53,797 : INFO : El estudio con ID de interpretación IC-331518 ya existe
+2024-02-14 13:03:53,798 : INFO : El estudio con ID de interpretación IC-332941 ya existe
+2024-02-14 13:03:53,800 : INFO : El estudio con ID de interpretación IC-331838 ya existe
+2024-02-14 13:03:53,801 : INFO : El estudio con ID de interpretación IC-331655 ya existe
+2024-02-14 13:03:53,803 : INFO : El estudio con ID de interpretación IC-331720 ya existe
+2024-02-14 13:03:53,803 : INFO : El estudio con ID de interpretación IC-331520 ya existe
+2024-02-14 13:03:53,804 : INFO : El estudio con ID de interpretación IC-332942 ya existe
+2024-02-14 13:03:53,805 : INFO : El estudio con ID de interpretación IC-331719 ya existe
+2024-02-14 13:03:53,806 : INFO : El estudio con ID de interpretación IC-331825 ya existe
+2024-02-14 13:03:53,807 : INFO : El estudio con ID de interpretación IC-331654 ya existe
+2024-02-14 13:03:53,808 : INFO : El estudio con ID de interpretación IC-332944 ya existe
+2024-02-14 13:03:53,809 : INFO : El estudio con ID de interpretación IC-331721 ya existe
+2024-02-14 13:03:53,809 : INFO : El estudio con ID de interpretación IC-331521 ya existe
+2024-02-14 13:03:53,810 : INFO : El estudio con ID de interpretación IC-332946 ya existe
+2024-02-14 13:03:53,811 : INFO : El estudio con ID de interpretación IC-331526 ya existe
+2024-02-14 13:03:53,811 : INFO : El estudio con ID de interpretación IC-331723 ya existe
+2024-02-14 13:03:53,812 : INFO : El estudio con ID de interpretación IC-331831 ya existe
+2024-02-14 13:03:53,813 : INFO : El estudio con ID de interpretación IC-331722 ya existe
+2024-02-14 13:03:53,813 : INFO : El estudio con ID de interpretación IC-331656 ya existe
+2024-02-14 13:03:53,814 : INFO : El estudio con ID de interpretación IC-332945 ya existe
+2024-02-14 13:03:53,816 : INFO : El estudio con ID de interpretación IC-332947 ya existe
+2024-02-14 13:03:53,818 : INFO : El estudio con ID de interpretación IC-331840 ya existe
+2024-02-14 13:03:53,818 : INFO : El estudio con ID de interpretación IC-331657 ya existe
+2024-02-14 13:03:53,819 : INFO : El estudio con ID de interpretación IC-331724 ya existe
+2024-02-14 13:03:53,819 : INFO : El estudio con ID de interpretación IC-331660 ya existe
+2024-02-14 13:03:53,820 : INFO : El estudio con ID de interpretación IC-331830 ya existe
+2024-02-14 13:03:53,820 : INFO : El estudio con ID de interpretación IC-332949 ya existe
+2024-02-14 13:03:53,821 : INFO : El estudio con ID de interpretación IC-331837 ya existe
+2024-02-14 13:03:53,822 : INFO : El estudio con ID de interpretación IC-331832 ya existe
+2024-02-14 13:03:53,823 : INFO : El estudio con ID de interpretación IC-331658 ya existe
+2024-02-14 13:03:53,824 : INFO : El estudio con ID de interpretación IC-331531 ya existe
+2024-02-14 13:03:53,825 : INFO : El estudio con ID de interpretación IC-331659 ya existe
+2024-02-14 13:03:53,826 : INFO : El estudio con ID de interpretación IC-331547 ya existe
+2024-02-14 13:03:53,826 : INFO : El estudio con ID de interpretación IC-332948 ya existe
+2024-02-14 13:03:53,827 : INFO : El estudio con ID de interpretación IC-332951 ya existe
+2024-02-14 13:03:53,842 : INFO : El estudio con ID de interpretación IC-331725 ya existe
+2024-02-14 13:03:53,842 : INFO : El estudio con ID de interpretación IC-332950 ya existe
+2024-02-14 13:03:53,843 : INFO : El estudio con ID de interpretación IC-331833 ya existe
+2024-02-14 13:03:53,843 : INFO : El estudio con ID de interpretación IC-331664 ya existe
+2024-02-14 13:03:53,844 : INFO : El estudio con ID de interpretación IC-331726 ya existe
+2024-02-14 13:03:53,844 : INFO : El estudio con ID de interpretación IC-332953 ya existe
+2024-02-14 13:03:53,845 : INFO : El estudio con ID de interpretación IC-332952 ya existe
+2024-02-14 13:03:53,845 : INFO : El estudio con ID de interpretación IC-331834 ya existe
+2024-02-14 13:03:53,846 : INFO : El estudio con ID de interpretación IC-331662 ya existe
+2024-02-14 13:03:53,846 : INFO : El estudio con ID de interpretación IC-331560 ya existe
+2024-02-14 13:03:53,847 : INFO : El estudio con ID de interpretación IC-331841 ya existe
+2024-02-14 13:03:53,847 : INFO : El estudio con ID de interpretación IC-332954 ya existe
+2024-02-14 13:03:53,849 : INFO : El estudio con ID de interpretación IC-331564 ya existe
+2024-02-14 13:03:53,850 : INFO : El estudio con ID de interpretación IC-331661 ya existe
+2024-02-14 13:03:53,851 : INFO : El estudio con ID de interpretación IC-332956 ya existe
+2024-02-14 13:03:53,851 : INFO : El estudio con ID de interpretación IC-331727 ya existe
+2024-02-14 13:03:53,852 : INFO : El estudio con ID de interpretación IC-331567 ya existe
+2024-02-14 13:03:53,852 : INFO : El estudio con ID de interpretación IC-332955 ya existe
+2024-02-14 13:03:53,853 : INFO : El estudio con ID de interpretación IC-331663 ya existe
+2024-02-14 13:03:53,854 : INFO : El estudio con ID de interpretación IC-331569 ya existe
+2024-02-14 13:03:53,854 : INFO : El estudio con ID de interpretación IC-331571 ya existe
+2024-02-14 13:03:53,855 : INFO : El estudio con ID de interpretación IC-332957 ya existe
+2024-02-14 13:03:53,856 : INFO : El estudio con ID de interpretación IC-331728 ya existe
+2024-02-14 13:03:53,856 : INFO : El estudio con ID de interpretación IC-331842 ya existe
+2024-02-14 13:03:53,857 : INFO : El estudio con ID de interpretación IC-331572 ya existe
+2024-02-14 13:03:53,857 : INFO : El estudio con ID de interpretación IC-331576 ya existe
+2024-02-14 13:03:53,872 : INFO : El estudio con ID de interpretación IC-333229 ya existe
+2024-02-14 13:03:53,873 : INFO : El estudio con ID de interpretación IC-332677 ya existe
+2024-02-14 13:03:53,874 : INFO : El estudio con ID de interpretación IC-332203 ya existe
+2024-02-14 13:03:53,875 : INFO : El estudio con ID de interpretación IC-332766 ya existe
+2024-02-14 13:03:53,876 : INFO : El estudio con ID de interpretación IC-332680 ya existe
+2024-02-14 13:03:53,876 : INFO : El estudio con ID de interpretación IC-332201 ya existe
+2024-02-14 13:03:53,877 : INFO : El estudio con ID de interpretación IC-332765 ya existe
+2024-02-14 13:03:53,878 : INFO : El estudio con ID de interpretación IC-332682 ya existe
+2024-02-14 13:03:53,878 : INFO : El estudio con ID de interpretación IC-331847 ya existe
+2024-02-14 13:03:53,879 : INFO : El estudio con ID de interpretación IC-332767 ya existe
+2024-02-14 13:03:53,880 : INFO : El estudio con ID de interpretación IC-333235 ya existe
+2024-02-14 13:03:53,880 : INFO : El estudio con ID de interpretación IC-333230 ya existe
+2024-02-14 13:03:53,881 : INFO : El estudio con ID de interpretación IC-332684 ya existe
+2024-02-14 13:03:53,883 : INFO : El estudio con ID de interpretación IC-331850 ya existe
+2024-02-14 13:03:53,884 : INFO : El estudio con ID de interpretación IC-332769 ya existe
+2024-02-14 13:03:53,885 : INFO : El estudio con ID de interpretación IC-333236 ya existe
+2024-02-14 13:03:53,886 : INFO : El estudio con ID de interpretación IC-331844 ya existe
+2024-02-14 13:03:53,887 : INFO : El estudio con ID de interpretación IC-332768 ya existe
+2024-02-14 13:03:53,888 : INFO : El estudio con ID de interpretación IC-333231 ya existe
+2024-02-14 13:03:53,889 : INFO : El estudio con ID de interpretación IC-331846 ya existe
+2024-02-14 13:03:53,891 : INFO : El estudio con ID de interpretación IC-332687 ya existe
+2024-02-14 13:03:53,892 : INFO : El estudio con ID de interpretación IC-331845 ya existe
+2024-02-14 13:03:53,892 : INFO : El estudio con ID de interpretación IC-332770 ya existe
+2024-02-14 13:03:53,893 : INFO : El estudio con ID de interpretación IC-333642 ya existe
+2024-02-14 13:03:53,894 : INFO : El estudio con ID de interpretación IC-331843 ya existe
+2024-02-14 13:03:53,895 : INFO : El estudio con ID de interpretación IC-332771 ya existe
+2024-02-14 13:03:53,895 : INFO : El estudio con ID de interpretación IC-332688 ya existe
+2024-02-14 13:03:53,896 : INFO : El estudio con ID de interpretación IC-331848 ya existe
+2024-02-14 13:03:53,896 : INFO : El estudio con ID de interpretación IC-332774 ya existe
+2024-02-14 13:03:53,897 : INFO : El estudio con ID de interpretación IC-332689 ya existe
+2024-02-14 13:03:53,898 : INFO : El estudio con ID de interpretación IC-331854 ya existe
+2024-02-14 13:03:53,900 : INFO : El estudio con ID de interpretación IC-332776 ya existe
+2024-02-14 13:03:53,901 : INFO : El estudio con ID de interpretación IC-333232 ya existe
+2024-02-14 13:03:53,902 : INFO : El estudio con ID de interpretación IC-332690 ya existe
+2024-02-14 13:03:53,902 : INFO : El estudio con ID de interpretación IC-331849 ya existe
+2024-02-14 13:03:53,903 : INFO : El estudio con ID de interpretación IC-332775 ya existe
+2024-02-14 13:03:53,903 : INFO : El estudio con ID de interpretación IC-332691 ya existe
+2024-02-14 13:03:53,904 : INFO : El estudio con ID de interpretación IC-332199 ya existe
+2024-02-14 13:03:53,904 : INFO : El estudio con ID de interpretación IC-332773 ya existe
+2024-02-14 13:03:53,905 : INFO : El estudio con ID de interpretación IC-333645 ya existe
+2024-02-14 13:03:53,905 : INFO : El estudio con ID de interpretación IC-332692 ya existe
+2024-02-14 13:03:53,906 : INFO : El estudio con ID de interpretación IC-331851 ya existe
+2024-02-14 13:03:53,906 : INFO : El estudio con ID de interpretación IC-332772 ya existe
+2024-02-14 13:03:53,907 : INFO : El estudio con ID de interpretación IC-333233 ya existe
+2024-02-14 13:03:53,908 : INFO : El estudio con ID de interpretación IC-333234 ya existe
+2024-02-14 13:03:53,909 : INFO : El estudio con ID de interpretación IC-334146 ya existe
+2024-02-14 13:03:53,910 : INFO : El estudio con ID de interpretación IC-334155 ya existe
+2024-02-14 13:03:53,910 : INFO : El estudio con ID de interpretación IC-331852 ya existe
+2024-02-14 13:03:53,911 : INFO : El estudio con ID de interpretación IC-332777 ya existe
+2024-02-14 13:03:53,912 : INFO : El estudio con ID de interpretación IC-331853 ya existe
+2024-02-14 13:03:53,912 : INFO : El estudio con ID de interpretación IC-334157 ya existe
+2024-02-14 13:03:53,913 : INFO : El estudio con ID de interpretación IC-332205 ya existe
+2024-02-14 13:03:53,914 : INFO : El estudio con ID de interpretación IC-332778 ya existe
+2024-02-14 13:03:53,915 : INFO : El estudio con ID de interpretación IC-334199 ya existe
+2024-02-14 13:03:53,916 : INFO : El estudio con ID de interpretación IC-334186 ya existe
+2024-02-14 13:03:53,918 : INFO : El estudio con ID de interpretación IC-331855 ya existe
+2024-02-14 13:03:53,919 : INFO : El estudio con ID de interpretación IC-332693 ya existe
+2024-02-14 13:03:53,920 : INFO : El estudio con ID de interpretación IC-332779 ya existe
+2024-02-14 13:03:53,921 : INFO : El estudio con ID de interpretación IC-332202 ya existe
+2024-02-14 13:03:53,921 : INFO : El estudio con ID de interpretación IC-332780 ya existe
+2024-02-14 13:03:53,922 : INFO : El estudio con ID de interpretación IC-331856 ya existe
+2024-02-14 13:03:53,923 : INFO : El estudio con ID de interpretación IC-332781 ya existe
+2024-02-14 13:03:53,924 : INFO : El estudio con ID de interpretación IC-332694 ya existe
+2024-02-14 13:03:53,925 : INFO : El estudio con ID de interpretación IC-332206 ya existe
+2024-02-14 13:03:53,925 : INFO : El estudio con ID de interpretación IC-332696 ya existe
+2024-02-14 13:03:53,926 : INFO : El estudio con ID de interpretación IC-332210 ya existe
+2024-02-14 13:03:53,927 : INFO : El estudio con ID de interpretación IC-332782 ya existe
+2024-02-14 13:03:53,927 : INFO : El estudio con ID de interpretación IC-334190 ya existe
+2024-02-14 13:03:53,928 : INFO : El estudio con ID de interpretación IC-332698 ya existe
+2024-02-14 13:03:53,928 : INFO : El estudio con ID de interpretación IC-332207 ya existe
+2024-02-14 13:03:53,929 : INFO : El estudio con ID de interpretación IC-332783 ya existe
+2024-02-14 13:03:53,929 : INFO : El estudio con ID de interpretación IC-333646 ya existe
+2024-02-14 13:03:53,930 : INFO : El estudio con ID de interpretación IC-332700 ya existe
+2024-02-14 13:03:53,931 : INFO : El estudio con ID de interpretación IC-332702 ya existe
+2024-02-14 13:03:53,934 : INFO : El estudio con ID de interpretación IC-332209 ya existe
+2024-02-14 13:03:53,935 : INFO : El estudio con ID de interpretación IC-332785 ya existe
+2024-02-14 13:03:53,936 : INFO : El estudio con ID de interpretación IC-332786 ya existe
+2024-02-14 13:03:53,958 : INFO : El estudio con ID de interpretación IC-331086 ya existe
+2024-02-14 13:03:53,958 : INFO : El estudio con ID de interpretación IC-332243 ya existe
+2024-02-14 13:03:53,959 : INFO : El estudio con ID de interpretación IC-332875 ya existe
+2024-02-14 13:03:53,959 : INFO : El estudio con ID de interpretación IC-331087 ya existe
+2024-02-14 13:03:53,960 : INFO : El estudio con ID de interpretación IC-332240 ya existe
+2024-02-14 13:03:53,960 : INFO : El estudio con ID de interpretación IC-332876 ya existe
+2024-02-14 13:03:53,961 : INFO : El estudio con ID de interpretación IC-331088 ya existe
+2024-02-14 13:03:53,961 : INFO : El estudio con ID de interpretación IC-332226 ya existe
+2024-02-14 13:03:53,962 : INFO : El estudio con ID de interpretación IC-332877 ya existe
+2024-02-14 13:03:53,963 : INFO : El estudio con ID de interpretación IC-332215 ya existe
+2024-02-14 13:03:53,964 : INFO : El estudio con ID de interpretación IC-332878 ya existe
+2024-02-14 13:03:53,966 : INFO : El estudio con ID de interpretación IC-332213 ya existe
+2024-02-14 13:03:53,968 : INFO : El estudio con ID de interpretación IC-332885 ya existe
+2024-02-14 13:03:53,969 : INFO : El estudio con ID de interpretación IC-332081 ya existe
+2024-02-14 13:03:53,970 : INFO : El estudio con ID de interpretación IC-332879 ya existe
+2024-02-14 13:03:53,971 : INFO : El estudio con ID de interpretación IC-331090 ya existe
+2024-02-14 13:03:53,972 : INFO : El estudio con ID de interpretación IC-332239 ya existe
+2024-02-14 13:03:53,972 : INFO : El estudio con ID de interpretación IC-332883 ya existe
+2024-02-14 13:03:53,973 : INFO : El estudio con ID de interpretación IC-333688 ya existe
+2024-02-14 13:03:53,974 : INFO : El estudio con ID de interpretación IC-331091 ya existe
+2024-02-14 13:03:53,974 : INFO : El estudio con ID de interpretación IC-332085 ya existe
+2024-02-14 13:03:53,975 : INFO : El estudio con ID de interpretación IC-332880 ya existe
+2024-02-14 13:03:53,976 : INFO : El estudio con ID de interpretación IC-331092 ya existe
+2024-02-14 13:03:53,976 : INFO : El estudio con ID de interpretación IC-332217 ya existe
+2024-02-14 13:03:53,977 : INFO : El estudio con ID de interpretación IC-332887 ya existe
+2024-02-14 13:03:53,978 : INFO : El estudio con ID de interpretación IC-332092 ya existe
+2024-02-14 13:03:53,978 : INFO : El estudio con ID de interpretación IC-332095 ya existe
+2024-02-14 13:03:53,979 : INFO : El estudio con ID de interpretación IC-331093 ya existe
+2024-02-14 13:03:53,980 : INFO : El estudio con ID de interpretación IC-332216 ya existe
+2024-02-14 13:03:53,981 : INFO : El estudio con ID de interpretación IC-332889 ya existe
+2024-02-14 13:03:53,982 : INFO : El estudio con ID de interpretación IC-332097 ya existe
+2024-02-14 13:03:53,984 : INFO : El estudio con ID de interpretación IC-331094 ya existe
+2024-02-14 13:03:53,985 : INFO : El estudio con ID de interpretación IC-333689 ya existe
+2024-02-14 13:03:53,986 : INFO : El estudio con ID de interpretación IC-332100 ya existe
+2024-02-14 13:03:53,986 : INFO : El estudio con ID de interpretación IC-332218 ya existe
+2024-02-14 13:03:53,987 : INFO : El estudio con ID de interpretación IC-332899 ya existe
+2024-02-14 13:03:53,988 : INFO : El estudio con ID de interpretación IC-331095 ya existe
+2024-02-14 13:03:53,989 : INFO : El estudio con ID de interpretación IC-331096 ya existe
+2024-02-14 13:03:53,990 : INFO : El estudio con ID de interpretación IC-332212 ya existe
+2024-02-14 13:03:53,990 : INFO : El estudio con ID de interpretación IC-333690 ya existe
+2024-02-14 13:03:53,991 : INFO : El estudio con ID de interpretación IC-332892 ya existe
+2024-02-14 13:03:53,992 : INFO : El estudio con ID de interpretación IC-332220 ya existe
+2024-02-14 13:03:53,992 : INFO : El estudio con ID de interpretación IC-331097 ya existe
+2024-02-14 13:03:53,993 : INFO : El estudio con ID de interpretación IC-332219 ya existe
+2024-02-14 13:03:53,993 : INFO : El estudio con ID de interpretación IC-332901 ya existe
+2024-02-14 13:03:53,994 : INFO : El estudio con ID de interpretación IC-331098 ya existe
+2024-02-14 13:03:53,995 : INFO : El estudio con ID de interpretación IC-332222 ya existe
+2024-02-14 13:03:53,995 : INFO : El estudio con ID de interpretación IC-332904 ya existe
+2024-02-14 13:03:53,996 : INFO : El estudio con ID de interpretación IC-333691 ya existe
+2024-02-14 13:03:53,997 : INFO : El estudio con ID de interpretación IC-332227 ya existe
+2024-02-14 13:03:54,000 : INFO : El estudio con ID de interpretación IC-331099 ya existe
+2024-02-14 13:03:54,001 : INFO : El estudio con ID de interpretación IC-332223 ya existe
+2024-02-14 13:03:54,002 : INFO : El estudio con ID de interpretación IC-331100 ya existe
+2024-02-14 13:03:54,002 : INFO : El estudio con ID de interpretación IC-332225 ya existe
+2024-02-14 13:03:54,003 : INFO : El estudio con ID de interpretación IC-331101 ya existe
+2024-02-14 13:03:54,003 : INFO : El estudio con ID de interpretación IC-332228 ya existe
+2024-02-14 13:03:54,004 : INFO : El estudio con ID de interpretación IC-332894 ya existe
+2024-02-14 13:03:54,005 : INFO : El estudio con ID de interpretación IC-332891 ya existe
+2024-02-14 13:03:54,006 : INFO : El estudio con ID de interpretación IC-331102 ya existe
+2024-02-14 13:03:54,006 : INFO : El estudio con ID de interpretación IC-332896 ya existe
+2024-02-14 13:03:54,007 : INFO : El estudio con ID de interpretación IC-332101 ya existe
+2024-02-14 13:03:54,007 : INFO : El estudio con ID de interpretación IC-332104 ya existe
+2024-02-14 13:03:54,008 : INFO : El estudio con ID de interpretación IC-332106 ya existe
+2024-02-14 13:03:54,008 : INFO : El estudio con ID de interpretación IC-331103 ya existe
+2024-02-14 13:03:54,009 : INFO : El estudio con ID de interpretación IC-332235 ya existe
+2024-02-14 13:03:54,009 : INFO : El estudio con ID de interpretación IC-332109 ya existe
+2024-02-14 13:03:54,010 : INFO : El estudio con ID de interpretación IC-333692 ya existe
+2024-02-14 13:03:54,011 : INFO : El estudio con ID de interpretación IC-331104 ya existe
+2024-02-14 13:03:54,012 : INFO : El estudio con ID de interpretación IC-332230 ya existe
+2024-02-14 13:03:54,012 : INFO : El estudio con ID de interpretación IC-332902 ya existe
+2024-02-14 13:03:54,013 : INFO : El estudio con ID de interpretación IC-331105 ya existe
+2024-02-14 13:03:54,014 : INFO : El estudio con ID de interpretación IC-332229 ya existe
+2024-02-14 13:03:54,016 : INFO : El estudio con ID de interpretación IC-332903 ya existe
+2024-02-14 13:03:54,017 : INFO : El estudio con ID de interpretación IC-332907 ya existe
+2024-02-14 13:03:54,018 : INFO : El estudio con ID de interpretación IC-332231 ya existe
+2024-02-14 13:03:54,019 : INFO : El estudio con ID de interpretación IC-331106 ya existe
+2024-02-14 13:03:54,020 : INFO : El estudio con ID de interpretación IC-331107 ya existe
+2024-02-14 13:03:54,021 : INFO : El estudio con ID de interpretación IC-332905 ya existe
+2024-02-14 13:03:54,021 : INFO : El estudio con ID de interpretación IC-331108 ya existe
+2024-02-14 13:03:54,022 : INFO : El estudio con ID de interpretación IC-332232 ya existe
+2024-02-14 13:03:54,022 : INFO : El estudio con ID de interpretación IC-332918 ya existe
+2024-02-14 13:03:54,023 : INFO : El estudio con ID de interpretación IC-331109 ya existe
+2024-02-14 13:03:54,024 : INFO : El estudio con ID de interpretación IC-332115 ya existe
+2024-02-14 13:03:54,024 : INFO : El estudio con ID de interpretación IC-333693 ya existe
+2024-02-14 13:03:54,025 : INFO : El estudio con ID de interpretación IC-331110 ya existe
+2024-02-14 13:03:54,025 : INFO : El estudio con ID de interpretación IC-332233 ya existe
+2024-02-14 13:03:54,026 : INFO : El estudio con ID de interpretación IC-332910 ya existe
+2024-02-14 13:03:54,027 : INFO : El estudio con ID de interpretación IC-333695 ya existe
+2024-02-14 13:03:54,028 : INFO : El estudio con ID de interpretación IC-332118 ya existe
+2024-02-14 13:03:54,029 : INFO : El estudio con ID de interpretación IC-332911 ya existe
+2024-02-14 13:03:54,030 : INFO : El estudio con ID de interpretación IC-332119 ya existe
+2024-02-14 13:03:54,033 : INFO : El estudio con ID de interpretación IC-332234 ya existe
+2024-02-14 13:03:54,035 : INFO : El estudio con ID de interpretación IC-332906 ya existe
+2024-02-14 13:03:54,035 : INFO : El estudio con ID de interpretación IC-332120 ya existe
+2024-02-14 13:03:54,037 : INFO : El estudio con ID de interpretación IC-332241 ya existe
+2024-02-14 13:03:54,038 : INFO : El estudio con ID de interpretación IC-332122 ya existe
+2024-02-14 13:03:54,039 : INFO : El estudio con ID de interpretación IC-332909 ya existe
+2024-02-14 13:03:54,040 : INFO : El estudio con ID de interpretación IC-331112 ya existe
+2024-02-14 13:03:54,040 : INFO : El estudio con ID de interpretación IC-332236 ya existe
+2024-02-14 13:03:54,041 : INFO : El estudio con ID de interpretación IC-331113 ya existe
+2024-02-14 13:03:54,042 : INFO : El estudio con ID de interpretación IC-332237 ya existe
+2024-02-14 13:03:54,043 : INFO : El estudio con ID de interpretación IC-333694 ya existe
+2024-02-14 13:03:54,044 : INFO : El estudio con ID de interpretación IC-332908 ya existe
+2024-02-14 13:03:54,045 : INFO : El estudio con ID de interpretación IC-332124 ya existe
+2024-02-14 13:03:54,045 : INFO : El estudio con ID de interpretación IC-332912 ya existe
+2024-02-14 13:03:54,046 : INFO : El estudio con ID de interpretación IC-331114 ya existe
+2024-02-14 13:03:54,047 : INFO : El estudio con ID de interpretación IC-332238 ya existe
+2024-02-14 13:03:54,051 : INFO : El estudio con ID de interpretación IC-332916 ya existe
+2024-02-14 13:03:54,053 : INFO : El estudio con ID de interpretación IC-332242 ya existe
+2024-02-14 13:03:54,054 : INFO : El estudio con ID de interpretación IC-332130 ya existe
+2024-02-14 13:03:54,055 : INFO : El estudio con ID de interpretación IC-332915 ya existe
+2024-02-14 13:03:54,055 : INFO : El estudio con ID de interpretación IC-332134 ya existe
+2024-02-14 13:03:54,056 : INFO : El estudio con ID de interpretación IC-331115 ya existe
+2024-02-14 13:03:54,057 : INFO : El estudio con ID de interpretación IC-332246 ya existe
+2024-02-14 13:03:54,058 : INFO : El estudio con ID de interpretación IC-332914 ya existe
+2024-02-14 13:03:54,058 : INFO : El estudio con ID de interpretación IC-333696 ya existe
+2024-02-14 13:03:54,059 : INFO : El estudio con ID de interpretación IC-332244 ya existe
+2024-02-14 13:03:54,059 : INFO : El estudio con ID de interpretación IC-332913 ya existe
+2024-02-14 13:03:54,060 : INFO : El estudio con ID de interpretación IC-332917 ya existe
+2024-02-14 13:03:54,061 : INFO : El estudio con ID de interpretación IC-331116 ya existe
+2024-02-14 13:03:54,061 : INFO : El estudio con ID de interpretación IC-332245 ya existe
+2024-02-14 13:03:54,062 : INFO : El estudio con ID de interpretación IC-332919 ya existe
+2024-02-14 13:03:54,062 : INFO : El estudio con ID de interpretación IC-332138 ya existe
+2024-02-14 13:03:54,063 : INFO : El estudio con ID de interpretación IC-331117 ya existe
+2024-02-14 13:03:54,077 : INFO : El estudio con ID de interpretación IC-331275 ya existe
+2024-02-14 13:03:54,078 : INFO : El estudio con ID de interpretación IC-330773 ya existe
+2024-02-14 13:03:54,079 : INFO : El estudio con ID de interpretación IC-332406 ya existe
+2024-02-14 13:03:54,080 : INFO : El estudio con ID de interpretación IC-331159 ya existe
+2024-02-14 13:03:54,081 : INFO : El estudio con ID de interpretación IC-330768 ya existe
+2024-02-14 13:03:54,082 : INFO : El estudio con ID de interpretación IC-331162 ya existe
+2024-02-14 13:03:54,083 : INFO : El estudio con ID de interpretación IC-331153 ya existe
+2024-02-14 13:03:54,084 : INFO : El estudio con ID de interpretación IC-332403 ya existe
+2024-02-14 13:03:54,084 : INFO : El estudio con ID de interpretación IC-332404 ya existe
+2024-02-14 13:03:54,085 : INFO : El estudio con ID de interpretación IC-331157 ya existe
+2024-02-14 13:03:54,086 : INFO : El estudio con ID de interpretación IC-331378 ya existe
+2024-02-14 13:03:54,086 : INFO : El estudio con ID de interpretación IC-332274 ya existe
+2024-02-14 13:03:54,087 : INFO : El estudio con ID de interpretación IC-331180 ya existe
+2024-02-14 13:03:54,087 : INFO : El estudio con ID de interpretación IC-331150 ya existe
+2024-02-14 13:03:54,088 : INFO : El estudio con ID de interpretación IC-332402 ya existe
+2024-02-14 13:03:54,089 : INFO : El estudio con ID de interpretación IC-331186 ya existe
+2024-02-14 13:03:54,089 : INFO : El estudio con ID de interpretación IC-331276 ya existe
+2024-02-14 13:03:54,090 : INFO : El estudio con ID de interpretación IC-330770 ya existe
+2024-02-14 13:03:54,090 : INFO : El estudio con ID de interpretación IC-332267 ya existe
+2024-02-14 13:03:54,091 : INFO : El estudio con ID de interpretación IC-331158 ya existe
+2024-02-14 13:03:54,092 : INFO : El estudio con ID de interpretación IC-332272 ya existe
+2024-02-14 13:03:54,092 : INFO : El estudio con ID de interpretación IC-331160 ya existe
+2024-02-14 13:03:54,093 : INFO : El estudio con ID de interpretación IC-331381 ya existe
+2024-02-14 13:03:54,093 : INFO : El estudio con ID de interpretación IC-332247 ya existe
+2024-02-14 13:03:54,094 : INFO : El estudio con ID de interpretación IC-331177 ya existe
+2024-02-14 13:03:54,095 : INFO : El estudio con ID de interpretación IC-331405 ya existe
+2024-02-14 13:03:54,095 : INFO : El estudio con ID de interpretación IC-332405 ya existe
+2024-02-14 13:03:54,096 : INFO : El estudio con ID de interpretación IC-332264 ya existe
+2024-02-14 13:03:54,096 : INFO : El estudio con ID de interpretación IC-331165 ya existe
+2024-02-14 13:03:54,097 : INFO : El estudio con ID de interpretación IC-331277 ya existe
+2024-02-14 13:03:54,098 : INFO : El estudio con ID de interpretación IC-331390 ya existe
+2024-02-14 13:03:54,099 : INFO : El estudio con ID de interpretación IC-332389 ya existe
+2024-02-14 13:03:54,100 : INFO : El estudio con ID de interpretación IC-331161 ya existe
+2024-02-14 13:03:54,100 : INFO : El estudio con ID de interpretación IC-331274 ya existe
+2024-02-14 13:03:54,101 : INFO : El estudio con ID de interpretación IC-331382 ya existe
+2024-02-14 13:03:54,101 : INFO : El estudio con ID de interpretación IC-331282 ya existe
+2024-02-14 13:03:54,102 : INFO : El estudio con ID de interpretación IC-332276 ya existe
+2024-02-14 13:03:54,102 : INFO : El estudio con ID de interpretación IC-331379 ya existe
+2024-02-14 13:03:54,103 : INFO : El estudio con ID de interpretación IC-332279 ya existe
+2024-02-14 13:03:54,103 : INFO : El estudio con ID de interpretación IC-331163 ya existe
+2024-02-14 13:03:54,105 : INFO : El estudio con ID de interpretación IC-331392 ya existe
+2024-02-14 13:03:54,105 : INFO : El estudio con ID de interpretación IC-332285 ya existe
+2024-02-14 13:03:54,106 : INFO : El estudio con ID de interpretación IC-331171 ya existe
+2024-02-14 13:03:54,106 : INFO : El estudio con ID de interpretación IC-331398 ya existe
+2024-02-14 13:03:54,107 : INFO : El estudio con ID de interpretación IC-332392 ya existe
+2024-02-14 13:03:54,108 : INFO : El estudio con ID de interpretación IC-331155 ya existe
+2024-02-14 13:03:54,108 : INFO : El estudio con ID de interpretación IC-331174 ya existe
+2024-02-14 13:03:54,109 : INFO : El estudio con ID de interpretación IC-331400 ya existe
+2024-02-14 13:03:54,109 : INFO : El estudio con ID de interpretación IC-332393 ya existe
+2024-02-14 13:03:54,110 : INFO : El estudio con ID de interpretación IC-331168 ya existe
+2024-02-14 13:03:54,110 : INFO : El estudio con ID de interpretación IC-331190 ya existe
+2024-02-14 13:03:54,111 : INFO : El estudio con ID de interpretación IC-331191 ya existe
+2024-02-14 13:03:54,112 : INFO : El estudio con ID de interpretación IC-331412 ya existe
+2024-02-14 13:03:54,113 : INFO : El estudio con ID de interpretación IC-332409 ya existe
+2024-02-14 13:03:54,113 : INFO : El estudio con ID de interpretación IC-331192 ya existe
+2024-02-14 13:03:54,114 : INFO : El estudio con ID de interpretación IC-331393 ya existe
+2024-02-14 13:03:54,115 : INFO : El estudio con ID de interpretación IC-331164 ya existe
+2024-02-14 13:03:54,116 : INFO : El estudio con ID de interpretación IC-331170 ya existe
+2024-02-14 13:03:54,117 : INFO : El estudio con ID de interpretación IC-331397 ya existe
+2024-02-14 13:03:54,118 : INFO : El estudio con ID de interpretación IC-332391 ya existe
+2024-02-14 13:03:54,118 : INFO : El estudio con ID de interpretación IC-331166 ya existe
+2024-02-14 13:03:54,119 : INFO : El estudio con ID de interpretación IC-331401 ya existe
+2024-02-14 13:03:54,119 : INFO : El estudio con ID de interpretación IC-332395 ya existe
+2024-02-14 13:03:54,120 : INFO : El estudio con ID de interpretación IC-331188 ya existe
+2024-02-14 13:03:54,121 : INFO : El estudio con ID de interpretación IC-332400 ya existe
+2024-02-14 13:03:54,121 : INFO : El estudio con ID de interpretación IC-331176 ya existe
+2024-02-14 13:03:54,122 : INFO : El estudio con ID de interpretación IC-331179 ya existe
+2024-02-14 13:03:54,122 : INFO : El estudio con ID de interpretación IC-331281 ya existe
+2024-02-14 13:03:54,123 : INFO : El estudio con ID de interpretación IC-331404 ya existe
+2024-02-14 13:03:54,123 : INFO : El estudio con ID de interpretación IC-332396 ya existe
+2024-02-14 13:03:54,124 : INFO : El estudio con ID de interpretación IC-331167 ya existe
+2024-02-14 13:03:54,124 : INFO : El estudio con ID de interpretación IC-331406 ya existe
+2024-02-14 13:03:54,125 : INFO : El estudio con ID de interpretación IC-332399 ya existe
+2024-02-14 13:03:54,126 : INFO : El estudio con ID de interpretación IC-331178 ya existe
+2024-02-14 13:03:54,126 : INFO : El estudio con ID de interpretación IC-331410 ya existe
+2024-02-14 13:03:54,127 : INFO : El estudio con ID de interpretación IC-332401 ya existe
+2024-02-14 13:03:54,127 : INFO : El estudio con ID de interpretación IC-331169 ya existe
+2024-02-14 13:03:54,128 : INFO : El estudio con ID de interpretación IC-331411 ya existe
+2024-02-14 13:03:54,128 : INFO : El estudio con ID de interpretación IC-332407 ya existe
+2024-02-14 13:03:54,129 : INFO : El estudio con ID de interpretación IC-331173 ya existe
+2024-02-14 13:03:54,129 : INFO : El estudio con ID de interpretación IC-331172 ya existe
+2024-02-14 13:03:54,130 : INFO : El estudio con ID de interpretación IC-331278 ya existe
+2024-02-14 13:03:54,131 : INFO : El estudio con ID de interpretación IC-332408 ya existe
+2024-02-14 13:03:54,132 : INFO : El estudio con ID de interpretación IC-331175 ya existe
+2024-02-14 13:03:54,132 : INFO : El estudio con ID de interpretación IC-331279 ya existe
+2024-02-14 13:03:54,133 : INFO : El estudio con ID de interpretación IC-331280 ya existe
+2024-02-14 13:03:54,134 : INFO : El estudio con ID de interpretación IC-331413 ya existe
+2024-02-14 13:03:54,134 : INFO : El estudio con ID de interpretación IC-332410 ya existe
+2024-02-14 13:03:54,135 : INFO : El estudio con ID de interpretación IC-331194 ya existe
+2024-02-14 13:03:54,154 : INFO : El estudio con ID de interpretación IC-332441 ya existe
+2024-02-14 13:03:54,154 : INFO : El estudio con ID de interpretación IC-333448 ya existe
+2024-02-14 13:03:54,155 : INFO : El estudio con ID de interpretación IC-333449 ya existe
+2024-02-14 13:03:54,155 : INFO : El estudio con ID de interpretación IC-332442 ya existe
+2024-02-14 13:03:54,156 : INFO : El estudio con ID de interpretación IC-333401 ya existe
+2024-02-14 13:03:54,156 : INFO : El estudio con ID de interpretación IC-330849 ya existe
+2024-02-14 13:03:54,157 : INFO : El estudio con ID de interpretación IC-333450 ya existe
+2024-02-14 13:03:54,157 : INFO : El estudio con ID de interpretación IC-332434 ya existe
+2024-02-14 13:03:54,158 : INFO : El estudio con ID de interpretación IC-332824 ya existe
+2024-02-14 13:03:54,159 : INFO : El estudio con ID de interpretación IC-333451 ya existe
+2024-02-14 13:03:54,159 : INFO : El estudio con ID de interpretación IC-332412 ya existe
+2024-02-14 13:03:54,160 : INFO : El estudio con ID de interpretación IC-330850 ya existe
+2024-02-14 13:03:54,160 : INFO : El estudio con ID de interpretación IC-331859 ya existe
+2024-02-14 13:03:54,161 : INFO : El estudio con ID de interpretación IC-332420 ya existe
+2024-02-14 13:03:54,162 : INFO : El estudio con ID de interpretación IC-333402 ya existe
+2024-02-14 13:03:54,163 : INFO : El estudio con ID de interpretación IC-332411 ya existe
+2024-02-14 13:03:54,163 : INFO : El estudio con ID de interpretación IC-333403 ya existe
+2024-02-14 13:03:54,165 : INFO : El estudio con ID de interpretación IC-332043 ya existe
+2024-02-14 13:03:54,167 : INFO : El estudio con ID de interpretación IC-333452 ya existe
+2024-02-14 13:03:54,167 : INFO : El estudio con ID de interpretación IC-332413 ya existe
+2024-02-14 13:03:54,168 : INFO : El estudio con ID de interpretación IC-332823 ya existe
+2024-02-14 13:03:54,168 : INFO : El estudio con ID de interpretación IC-330851 ya existe
+2024-02-14 13:03:54,169 : INFO : El estudio con ID de interpretación IC-332046 ya existe
+2024-02-14 13:03:54,169 : INFO : El estudio con ID de interpretación IC-332044 ya existe
+2024-02-14 13:03:54,170 : INFO : El estudio con ID de interpretación IC-333453 ya existe
+2024-02-14 13:03:54,171 : INFO : El estudio con ID de interpretación IC-332735 ya existe
+2024-02-14 13:03:54,171 : INFO : El estudio con ID de interpretación IC-333454 ya existe
+2024-02-14 13:03:54,172 : INFO : El estudio con ID de interpretación IC-332414 ya existe
+2024-02-14 13:03:54,172 : INFO : El estudio con ID de interpretación IC-333404 ya existe
+2024-02-14 13:03:54,173 : INFO : El estudio con ID de interpretación IC-333456 ya existe
+2024-02-14 13:03:54,173 : INFO : El estudio con ID de interpretación IC-332416 ya existe
+2024-02-14 13:03:54,174 : INFO : El estudio con ID de interpretación IC-333405 ya existe
+2024-02-14 13:03:54,174 : INFO : El estudio con ID de interpretación IC-332738 ya existe
+2024-02-14 13:03:54,175 : INFO : El estudio con ID de interpretación IC-331860 ya existe
+2024-02-14 13:03:54,176 : INFO : El estudio con ID de interpretación IC-332049 ya existe
+2024-02-14 13:03:54,176 : INFO : El estudio con ID de interpretación IC-332417 ya existe
+2024-02-14 13:03:54,177 : INFO : El estudio con ID de interpretación IC-333408 ya existe
+2024-02-14 13:03:54,178 : INFO : El estudio con ID de interpretación IC-333455 ya existe
+2024-02-14 13:03:54,178 : INFO : El estudio con ID de interpretación IC-332415 ya existe
+2024-02-14 13:03:54,179 : INFO : El estudio con ID de interpretación IC-333407 ya existe
+2024-02-14 13:03:54,180 : INFO : El estudio con ID de interpretación IC-332077 ya existe
+2024-02-14 13:03:54,180 : INFO : El estudio con ID de interpretación IC-332418 ya existe
+2024-02-14 13:03:54,181 : INFO : El estudio con ID de interpretación IC-333409 ya existe
+2024-02-14 13:03:54,182 : INFO : El estudio con ID de interpretación IC-333461 ya existe
+2024-02-14 13:03:54,183 : INFO : El estudio con ID de interpretación IC-332422 ya existe
+2024-02-14 13:03:54,184 : INFO : El estudio con ID de interpretación IC-333411 ya existe
+2024-02-14 13:03:54,184 : INFO : El estudio con ID de interpretación IC-333457 ya existe
+2024-02-14 13:03:54,185 : INFO : El estudio con ID de interpretación IC-332419 ya existe
+2024-02-14 13:03:54,185 : INFO : El estudio con ID de interpretación IC-333406 ya existe
+2024-02-14 13:03:54,186 : INFO : El estudio con ID de interpretación IC-332740 ya existe
+2024-02-14 13:03:54,187 : INFO : El estudio con ID de interpretación IC-333458 ya existe
+2024-02-14 13:03:54,187 : INFO : El estudio con ID de interpretación IC-332421 ya existe
+2024-02-14 13:03:54,188 : INFO : El estudio con ID de interpretación IC-332745 ya existe
+2024-02-14 13:03:54,188 : INFO : El estudio con ID de interpretación IC-333462 ya existe
+2024-02-14 13:03:54,189 : INFO : El estudio con ID de interpretación IC-332423 ya existe
+2024-02-14 13:03:54,190 : INFO : El estudio con ID de interpretación IC-333410 ya existe
+2024-02-14 13:03:54,190 : INFO : El estudio con ID de interpretación IC-333459 ya existe
+2024-02-14 13:03:54,191 : INFO : El estudio con ID de interpretación IC-332424 ya existe
+2024-02-14 13:03:54,191 : INFO : El estudio con ID de interpretación IC-333413 ya existe
+2024-02-14 13:03:54,192 : INFO : El estudio con ID de interpretación IC-332746 ya existe
+2024-02-14 13:03:54,193 : INFO : El estudio con ID de interpretación IC-332060 ya existe
+2024-02-14 13:03:54,193 : INFO : El estudio con ID de interpretación IC-332747 ya existe
+2024-02-14 13:03:54,194 : INFO : El estudio con ID de interpretación IC-333460 ya existe
+2024-02-14 13:03:54,194 : INFO : El estudio con ID de interpretación IC-333463 ya existe
+2024-02-14 13:03:54,195 : INFO : El estudio con ID de interpretación IC-332426 ya existe
+2024-02-14 13:03:54,195 : INFO : El estudio con ID de interpretación IC-333421 ya existe
+2024-02-14 13:03:54,196 : INFO : El estudio con ID de interpretación IC-333464 ya existe
+2024-02-14 13:03:54,196 : INFO : El estudio con ID de interpretación IC-332428 ya existe
+2024-02-14 13:03:54,197 : INFO : El estudio con ID de interpretación IC-333423 ya existe
+2024-02-14 13:03:54,197 : INFO : El estudio con ID de interpretación IC-332063 ya existe
+2024-02-14 13:03:54,199 : INFO : El estudio con ID de interpretación IC-333465 ya existe
+2024-02-14 13:03:54,200 : INFO : El estudio con ID de interpretación IC-332427 ya existe
+2024-02-14 13:03:54,201 : INFO : El estudio con ID de interpretación IC-333417 ya existe
+2024-02-14 13:03:54,201 : INFO : El estudio con ID de interpretación IC-332748 ya existe
+2024-02-14 13:03:54,202 : INFO : El estudio con ID de interpretación IC-332048 ya existe
+2024-02-14 13:03:54,202 : INFO : El estudio con ID de interpretación IC-333412 ya existe
+2024-02-14 13:03:54,203 : INFO : El estudio con ID de interpretación IC-333474 ya existe
+2024-02-14 13:03:54,203 : INFO : El estudio con ID de interpretación IC-332443 ya existe
+2024-02-14 13:03:54,204 : INFO : El estudio con ID de interpretación IC-333431 ya existe
+2024-02-14 13:03:54,204 : INFO : El estudio con ID de interpretación IC-331861 ya existe
+2024-02-14 13:03:54,205 : INFO : El estudio con ID de interpretación IC-332425 ya existe
+2024-02-14 13:03:54,206 : INFO : El estudio con ID de interpretación IC-332051 ya existe
+2024-02-14 13:03:54,206 : INFO : El estudio con ID de interpretación IC-333414 ya existe
+2024-02-14 13:03:54,207 : INFO : El estudio con ID de interpretación IC-332053 ya existe
+2024-02-14 13:03:54,207 : INFO : El estudio con ID de interpretación IC-332429 ya existe
+2024-02-14 13:03:54,208 : INFO : El estudio con ID de interpretación IC-333415 ya existe
+2024-02-14 13:03:54,209 : INFO : El estudio con ID de interpretación IC-332080 ya existe
+2024-02-14 13:03:54,209 : INFO : El estudio con ID de interpretación IC-333466 ya existe
+2024-02-14 13:03:54,210 : INFO : El estudio con ID de interpretación IC-332432 ya existe
+2024-02-14 13:03:54,210 : INFO : El estudio con ID de interpretación IC-333416 ya existe
+2024-02-14 13:03:54,211 : INFO : El estudio con ID de interpretación IC-332749 ya existe
+2024-02-14 13:03:54,211 : INFO : El estudio con ID de interpretación IC-332055 ya existe
+2024-02-14 13:03:54,212 : INFO : El estudio con ID de interpretación IC-332430 ya existe
+2024-02-14 13:03:54,213 : INFO : El estudio con ID de interpretación IC-333420 ya existe
+2024-02-14 13:03:54,213 : INFO : El estudio con ID de interpretación IC-332750 ya existe
+2024-02-14 13:03:54,214 : INFO : El estudio con ID de interpretación IC-333467 ya existe
+2024-02-14 13:03:54,215 : INFO : El estudio con ID de interpretación IC-332431 ya existe
+2024-02-14 13:03:54,216 : INFO : El estudio con ID de interpretación IC-333419 ya existe
+2024-02-14 13:03:54,217 : INFO : El estudio con ID de interpretación IC-332751 ya existe
+2024-02-14 13:03:54,217 : INFO : El estudio con ID de interpretación IC-333468 ya existe
+2024-02-14 13:03:54,218 : INFO : El estudio con ID de interpretación IC-332433 ya existe
+2024-02-14 13:03:54,218 : INFO : El estudio con ID de interpretación IC-333418 ya existe
+2024-02-14 13:03:54,219 : INFO : El estudio con ID de interpretación IC-333470 ya existe
+2024-02-14 13:03:54,219 : INFO : El estudio con ID de interpretación IC-332435 ya existe
+2024-02-14 13:03:54,220 : INFO : El estudio con ID de interpretación IC-333422 ya existe
+2024-02-14 13:03:54,221 : INFO : El estudio con ID de interpretación IC-333469 ya existe
+2024-02-14 13:03:54,221 : INFO : El estudio con ID de interpretación IC-332440 ya existe
+2024-02-14 13:03:54,222 : INFO : El estudio con ID de interpretación IC-333424 ya existe
+2024-02-14 13:03:54,222 : INFO : El estudio con ID de interpretación IC-333471 ya existe
+2024-02-14 13:03:54,223 : INFO : El estudio con ID de interpretación IC-332073 ya existe
+2024-02-14 13:03:54,224 : INFO : El estudio con ID de interpretación IC-332436 ya existe
+2024-02-14 13:03:54,224 : INFO : El estudio con ID de interpretación IC-333425 ya existe
+2024-02-14 13:03:54,225 : INFO : El estudio con ID de interpretación IC-332752 ya existe
+2024-02-14 13:03:54,226 : INFO : El estudio con ID de interpretación IC-333472 ya existe
+2024-02-14 13:03:54,226 : INFO : El estudio con ID de interpretación IC-332103 ya existe
+2024-02-14 13:03:54,227 : INFO : El estudio con ID de interpretación IC-332438 ya existe
+2024-02-14 13:03:54,228 : INFO : El estudio con ID de interpretación IC-333426 ya existe
+2024-02-14 13:03:54,228 : INFO : El estudio con ID de interpretación IC-332105 ya existe
+2024-02-14 13:03:54,229 : INFO : El estudio con ID de interpretación IC-332437 ya existe
+2024-02-14 13:03:54,230 : INFO : El estudio con ID de interpretación IC-333427 ya existe
+2024-02-14 13:03:54,230 : INFO : El estudio con ID de interpretación IC-332086 ya existe
+2024-02-14 13:03:54,232 : INFO : El estudio con ID de interpretación IC-333476 ya existe
+2024-02-14 13:03:54,233 : INFO : El estudio con ID de interpretación IC-332445 ya existe
+2024-02-14 13:03:54,234 : INFO : El estudio con ID de interpretación IC-333428 ya existe
+2024-02-14 13:03:54,234 : INFO : El estudio con ID de interpretación IC-332753 ya existe
+2024-02-14 13:03:54,235 : INFO : El estudio con ID de interpretación IC-333473 ya existe
+2024-02-14 13:03:54,235 : INFO : El estudio con ID de interpretación IC-332439 ya existe
+2024-02-14 13:03:54,236 : INFO : El estudio con ID de interpretación IC-333429 ya existe
+2024-02-14 13:03:54,236 : INFO : El estudio con ID de interpretación IC-333475 ya existe
+2024-02-14 13:03:54,237 : INFO : El estudio con ID de interpretación IC-332444 ya existe
+2024-02-14 13:03:54,237 : INFO : El estudio con ID de interpretación IC-333430 ya existe
+2024-02-14 13:03:54,238 : INFO : El estudio con ID de interpretación IC-333477 ya existe
+2024-02-14 13:03:54,238 : INFO : El estudio con ID de interpretación IC-332446 ya existe
+2024-02-14 13:03:54,239 : INFO : El estudio con ID de interpretación IC-333432 ya existe
+2024-02-14 13:03:54,240 : INFO : El estudio con ID de interpretación IC-333478 ya existe
+2024-02-14 13:03:54,240 : INFO : El estudio con ID de interpretación IC-332447 ya existe
+2024-02-14 13:03:54,241 : INFO : El estudio con ID de interpretación IC-333433 ya existe
+2024-02-14 13:03:54,252 : INFO : El estudio con ID de interpretación IC-333434 ya existe
+2024-02-14 13:03:54,254 : INFO : El estudio con ID de interpretación IC-331880 ya existe
+2024-02-14 13:03:54,254 : INFO : El estudio con ID de interpretación IC-331320 ya existe
+2024-02-14 13:03:54,255 : INFO : El estudio con ID de interpretación IC-332756 ya existe
+2024-02-14 13:03:54,256 : INFO : El estudio con ID de interpretación IC-331882 ya existe
+2024-02-14 13:03:54,256 : INFO : El estudio con ID de interpretación IC-333436 ya existe
+2024-02-14 13:03:54,257 : INFO : El estudio con ID de interpretación IC-332757 ya existe
+2024-02-14 13:03:54,257 : INFO : El estudio con ID de interpretación IC-330878 ya existe
+2024-02-14 13:03:54,258 : INFO : El estudio con ID de interpretación IC-332784 ya existe
+2024-02-14 13:03:54,258 : INFO : El estudio con ID de interpretación IC-333435 ya existe
+2024-02-14 13:03:54,259 : INFO : El estudio con ID de interpretación IC-331752 ya existe
+2024-02-14 13:03:54,259 : INFO : El estudio con ID de interpretación IC-332787 ya existe
+2024-02-14 13:03:54,260 : INFO : El estudio con ID de interpretación IC-330874 ya existe
+2024-02-14 13:03:54,260 : INFO : El estudio con ID de interpretación IC-331884 ya existe
+2024-02-14 13:03:54,261 : INFO : El estudio con ID de interpretación IC-331321 ya existe
+2024-02-14 13:03:54,262 : INFO : El estudio con ID de interpretación IC-332790 ya existe
+2024-02-14 13:03:54,262 : INFO : El estudio con ID de interpretación IC-333437 ya existe
+2024-02-14 13:03:54,263 : INFO : El estudio con ID de interpretación IC-331753 ya existe
+2024-02-14 13:03:54,263 : INFO : El estudio con ID de interpretación IC-332788 ya existe
+2024-02-14 13:03:54,264 : INFO : El estudio con ID de interpretación IC-330876 ya existe
+2024-02-14 13:03:54,265 : INFO : El estudio con ID de interpretación IC-332793 ya existe
+2024-02-14 13:03:54,267 : INFO : El estudio con ID de interpretación IC-333438 ya existe
+2024-02-14 13:03:54,267 : INFO : El estudio con ID de interpretación IC-332796 ya existe
+2024-02-14 13:03:54,268 : INFO : El estudio con ID de interpretación IC-331885 ya existe
+2024-02-14 13:03:54,269 : INFO : El estudio con ID de interpretación IC-331322 ya existe
+2024-02-14 13:03:54,271 : INFO : El estudio con ID de interpretación IC-332802 ya existe
+2024-02-14 13:03:54,271 : INFO : El estudio con ID de interpretación IC-331886 ya existe
+2024-02-14 13:03:54,272 : INFO : El estudio con ID de interpretación IC-331887 ya existe
+2024-02-14 13:03:54,272 : INFO : El estudio con ID de interpretación IC-331761 ya existe
+2024-02-14 13:03:54,273 : INFO : El estudio con ID de interpretación IC-332799 ya existe
+2024-02-14 13:03:54,274 : INFO : El estudio con ID de interpretación IC-331883 ya existe
+2024-02-14 13:03:54,274 : INFO : El estudio con ID de interpretación IC-331888 ya existe
+2024-02-14 13:03:54,275 : INFO : El estudio con ID de interpretación IC-333439 ya existe
+2024-02-14 13:03:54,275 : INFO : El estudio con ID de interpretación IC-331756 ya existe
+2024-02-14 13:03:54,276 : INFO : El estudio con ID de interpretación IC-332808 ya existe
+2024-02-14 13:03:54,276 : INFO : El estudio con ID de interpretación IC-330877 ya existe
+2024-02-14 13:03:54,290 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:03:57,480 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:03:57,488 : INFO : El estudio con ID de interpretación IC-333442 se generó correctamente
+2024-02-14 13:03:57,499 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:01,465 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:01,483 : INFO : El estudio con ID de interpretación IC-331754 se generó correctamente
+2024-02-14 13:04:01,492 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:04,733 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:04,737 : INFO : El estudio con ID de interpretación IC-332805 se generó correctamente
+2024-02-14 13:04:04,747 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:08,641 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:08,647 : INFO : El estudio con ID de interpretación IC-333440 se generó correctamente
+2024-02-14 13:04:08,657 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:11,848 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:11,868 : INFO : El estudio con ID de interpretación IC-331757 se generó correctamente
+2024-02-14 13:04:11,879 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:14,711 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:14,727 : INFO : El estudio con ID de interpretación IC-332813 se generó correctamente
+2024-02-14 13:04:14,750 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:17,759 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:17,775 : INFO : El estudio con ID de interpretación IC-331881 se generó correctamente
+2024-02-14 13:04:17,800 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:20,891 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:20,915 : INFO : El estudio con ID de interpretación IC-333441 se generó correctamente
+2024-02-14 13:04:20,930 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:24,135 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:24,152 : INFO : El estudio con ID de interpretación IC-331755 se generó correctamente
+2024-02-14 13:04:24,162 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:27,364 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:27,378 : INFO : El estudio con ID de interpretación IC-332810 se generó correctamente
+2024-02-14 13:04:27,395 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:30,664 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:30,686 : INFO : El estudio con ID de interpretación IC-331764 se generó correctamente
+2024-02-14 13:04:30,694 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:34,496 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:34,502 : INFO : El estudio con ID de interpretación IC-331889 se generó correctamente
+2024-02-14 13:04:34,510 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:37,438 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:37,454 : INFO : El estudio con ID de interpretación IC-332817 se generó correctamente
+2024-02-14 13:04:37,478 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:40,238 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:40,245 : INFO : El estudio con ID de interpretación IC-333443 se generó correctamente
+2024-02-14 13:04:40,253 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:43,548 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:43,582 : INFO : El estudio con ID de interpretación IC-331758 se generó correctamente
+2024-02-14 13:04:43,590 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:46,513 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:46,527 : INFO : El estudio con ID de interpretación IC-332815 se generó correctamente
+2024-02-14 13:04:46,552 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:51,058 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:51,063 : INFO : El estudio con ID de interpretación IC-331890 se generó correctamente
+2024-02-14 13:04:51,073 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:54,432 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:54,472 : INFO : El estudio con ID de interpretación IC-331763 se generó correctamente
+2024-02-14 13:04:54,480 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:04:57,513 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:04:57,529 : INFO : El estudio con ID de interpretación IC-332816 se generó correctamente
+2024-02-14 13:04:57,556 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:00,603 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:00,608 : INFO : El estudio con ID de interpretación IC-331891 se generó correctamente
+2024-02-14 13:05:00,616 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:03,826 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:03,841 : INFO : El estudio con ID de interpretación IC-333445 se generó correctamente
+2024-02-14 13:05:03,849 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:08,396 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:08,414 : INFO : El estudio con ID de interpretación IC-331760 se generó correctamente
+2024-02-14 13:05:08,426 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:11,599 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:11,611 : INFO : El estudio con ID de interpretación IC-332819 se generó correctamente
+2024-02-14 13:05:11,635 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:15,528 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:15,540 : INFO : El estudio con ID de interpretación IC-332754 se generó correctamente
+2024-02-14 13:05:15,559 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:18,641 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:18,646 : INFO : El estudio con ID de interpretación IC-331892 se generó correctamente
+2024-02-14 13:05:18,658 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:21,614 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:21,641 : INFO : El estudio con ID de interpretación IC-333444 se generó correctamente
+2024-02-14 13:05:21,653 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:24,884 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:24,923 : INFO : El estudio con ID de interpretación IC-331759 se generó correctamente
+2024-02-14 13:05:24,931 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:28,725 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:28,728 : INFO : El estudio con ID de interpretación IC-332818 se generó correctamente
+2024-02-14 13:05:28,739 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:32,595 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:32,618 : INFO : El estudio con ID de interpretación IC-331765 se generó correctamente
+2024-02-14 13:05:32,636 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:35,776 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:35,788 : INFO : El estudio con ID de interpretación IC-332820 se generó correctamente
+2024-02-14 13:05:35,802 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:38,758 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:38,784 : INFO : El estudio con ID de interpretación IC-333446 se generó correctamente
+2024-02-14 13:05:38,800 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:42,188 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:42,229 : INFO : El estudio con ID de interpretación IC-331762 se generó correctamente
+2024-02-14 13:05:42,239 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:45,184 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:45,199 : INFO : El estudio con ID de interpretación IC-332821 se generó correctamente
+2024-02-14 13:05:45,221 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:48,333 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:48,342 : INFO : El estudio con ID de interpretación IC-331900 se generó correctamente
+2024-02-14 13:05:49,389 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:52,368 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:52,390 : INFO : El estudio con ID de interpretación IC-333447 se generó correctamente
+2024-02-14 13:05:52,401 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:55,694 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:55,710 : INFO : El estudio con ID de interpretación IC-331767 se generó correctamente
+2024-02-14 13:05:55,719 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:05:58,582 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:05:58,586 : INFO : El estudio con ID de interpretación IC-332822 se generó correctamente
+2024-02-14 13:05:58,595 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:11,375 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:11,379 : INFO : El estudio con ID de interpretación IC-332755 se generó correctamente
+2024-02-14 13:06:11,406 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:15,180 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:15,208 : INFO : El estudio con ID de interpretación IC-331217 se generó correctamente
+2024-02-14 13:06:15,220 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:18,814 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:18,855 : INFO : El estudio con ID de interpretación IC-331295 se generó correctamente
+2024-02-14 13:06:18,863 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:21,892 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:21,907 : INFO : El estudio con ID de interpretación IC-331239 se generó correctamente
+2024-02-14 13:06:21,923 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:24,964 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:24,989 : INFO : El estudio con ID de interpretación IC-331218 se generó correctamente
+2024-02-14 13:06:25,002 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:28,311 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:28,349 : INFO : El estudio con ID de interpretación IC-331297 se generó correctamente
+2024-02-14 13:06:28,358 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:31,387 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:31,393 : INFO : El estudio con ID de interpretación IC-331243 se generó correctamente
+2024-02-14 13:06:31,405 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:34,506 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:34,526 : INFO : El estudio con ID de interpretación IC-331220 se generó correctamente
+2024-02-14 13:06:34,538 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:38,330 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:38,375 : INFO : El estudio con ID de interpretación IC-331300 se generó correctamente
+2024-02-14 13:06:38,386 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:41,716 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:41,720 : INFO : El estudio con ID de interpretación IC-331253 se generó correctamente
+2024-02-14 13:06:41,730 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:45,619 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:45,626 : INFO : El estudio con ID de interpretación IC-331219 se generó correctamente
+2024-02-14 13:06:45,637 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:49,178 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:49,213 : INFO : El estudio con ID de interpretación IC-331303 se generó correctamente
+2024-02-14 13:06:49,226 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:52,530 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:52,534 : INFO : El estudio con ID de interpretación IC-331242 se generó correctamente
+2024-02-14 13:06:52,545 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:55,848 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:55,858 : INFO : El estudio con ID de interpretación IC-331237 se generó correctamente
+2024-02-14 13:06:55,872 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:06:58,851 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:06:58,872 : INFO : El estudio con ID de interpretación IC-331234 se generó correctamente
+2024-02-14 13:06:58,884 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:07:02,345 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:07:02,362 : INFO : El estudio con ID de interpretación IC-331296 se generó correctamente
+2024-02-14 13:07:02,372 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091
+2024-02-14 13:07:05,412 : DEBUG : https://192.168.100.100:8091 "POST /risws/app/sc/rpsvc/rp01 HTTP/1.1" 200 None
+2024-02-14 13:07:05,424 : INFO : El estudio con ID de interpretación IC-331241 se generó correctamente
+2024-02-14 13:07:05,439 : DEBUG : Starting new HTTPS connection (1): 192.168.100.100:8091

@@ -1,0 +1,24 @@
+version: '3'
+
+services:
+    dicom_downloader:
+        container_name: downloader_tool
+        build:
+            context: ./
+            dockerfile: python.Dockerfile
+        environment:
+          - RIS=SUIM                              # SUIM -- SITDRIS
+          - TYPE=INTERPRETATION                   #DICOM  ó INTERPRETATION
+          - STATE=CHIAPAS                         #DATOS DEL SERVER DB_CONNECTIONS
+          - AET=SUIM                              #AET del PACS
+          - PORT=11112                            #Puerto del PACS
+          - START_DATE=2023-12-01                #Fecha de inicio
+          - END_DATE=2023-12-02                   #Fecha de corte
+          #- BRANCH_OFFICE=1                       #Sucursal (Para SITDRIS se debe especificar el idSucursal)
+        volumes:
+          - /etc/localtime:/etc/localtime:ro
+          - /etc/timezone:/etc/timezone:ro
+          - ./python:/usr/src/app                                           #Directorio de la aplicación
+          - /mnt/PACS/DICOMS:/home/data/dicoms                      #Directorios de descarga
+          - /home/data/templates:/home/data/templates
+          - /home/data/interpretations:/home/data/interpretations

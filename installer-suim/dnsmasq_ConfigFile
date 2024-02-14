@@ -1,0 +1,26 @@
+#Realizar consultas de dominios completos solamente.
+domain-needed
+#Evitar búsquedas internas de dominios locales
+bogus-priv
+#Habilita dnssec en dnsmasq
+proxy-dnssec
+#No tomar en cuenta el contenido del archivo /etc/resolv.conf
+no-resolv
+#Evitar ataques de dns rebinding
+stop-dns-rebind
+#evitar que servidores resuelvan consultas localhost
+rebind-localhost-ok
+#Se reciben consultas a dnsmasq en 127.0.0.1
+listen-address=::1,127.0.0.1
+#Solo interfas local
+interface=lo
+#Sólo se realizan búsquedas de direcciones que está resolviendo.
+bind-interfaces
+#No tomar en cuenta los hosts del archivo /etc/hosts
+no-hosts
+#Se define un cache de 500k
+cache-size=500
+#Query log
+log-queries
+#Muestra la lista de logs
+log-facility=/var/local/dnsmasq.log

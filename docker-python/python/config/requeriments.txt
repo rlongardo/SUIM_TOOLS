@@ -1,0 +1,7 @@
+pymysql
+psycopg2
+sshtunnel
+openpyxl
+pynetdicom
+requests
+PyPDF2
